@@ -2,155 +2,133 @@
   {
     "name": "admin-adminusers",
     "path": "/admin/adminusers",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\adminusers\\\\index.vue",
-    "chunkName": "pages/admin/adminusers/index",
-    "_name": "_4e9bcb19"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\adminusers\\\\index.vue",
+    "chunkName": "pages/admin/adminusers/index"
   },
   {
     "name": "admin-ads",
     "path": "/admin/ads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\index.vue",
-    "chunkName": "pages/admin/ads/index",
-    "_name": "_04dfb352"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\index.vue",
+    "chunkName": "pages/admin/ads/index"
   },
   {
     "name": "admin-bankdetails",
     "path": "/admin/bankdetails",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\bankdetails\\\\index.vue",
-    "chunkName": "pages/admin/bankdetails/index",
-    "_name": "_555c7c88"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\bankdetails\\\\index.vue",
+    "chunkName": "pages/admin/bankdetails/index"
   },
   {
     "name": "admin-dashboard",
     "path": "/admin/dashboard",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/admin/dashboard/index",
-    "_name": "_502038ee"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/admin/dashboard/index"
   },
   {
     "name": "admin-projects",
     "path": "/admin/projects",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\projects\\\\index.vue",
-    "chunkName": "pages/admin/projects/index",
-    "_name": "_723e7a18"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\projects\\\\index.vue",
+    "chunkName": "pages/admin/projects/index"
   },
   {
     "name": "admin-property_types",
     "path": "/admin/property_types",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\property_types\\\\index.vue",
-    "chunkName": "pages/admin/property_types/index",
-    "_name": "_44bb603a"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\property_types\\\\index.vue",
+    "chunkName": "pages/admin/property_types/index"
   },
   {
     "name": "admin-sliders",
     "path": "/admin/sliders",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\sliders\\\\index.vue",
-    "chunkName": "pages/admin/sliders/index",
-    "_name": "_651da710"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\sliders\\\\index.vue",
+    "chunkName": "pages/admin/sliders/index"
   },
   {
     "name": "admin-socities",
     "path": "/admin/socities",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\socities\\\\index.vue",
-    "chunkName": "pages/admin/socities/index",
-    "_name": "_7960450d"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\socities\\\\index.vue",
+    "chunkName": "pages/admin/socities/index"
   },
   {
     "name": "admin-ads-activeads",
     "path": "/admin/ads/activeads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\activeads.vue",
-    "chunkName": "pages/admin/ads/activeads",
-    "_name": "_68d6de6a"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\activeads.vue",
+    "chunkName": "pages/admin/ads/activeads"
   },
   {
     "name": "admin-ads-allads",
     "path": "/admin/ads/allads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\allads.vue",
-    "chunkName": "pages/admin/ads/allads",
-    "_name": "_193d7e9f"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\allads.vue",
+    "chunkName": "pages/admin/ads/allads"
   },
   {
     "name": "admin-ads-disableads",
     "path": "/admin/ads/disableads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\disableads.vue",
-    "chunkName": "pages/admin/ads/disableads",
-    "_name": "_22e05b78"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\disableads.vue",
+    "chunkName": "pages/admin/ads/disableads"
   },
   {
     "name": "admin-ads-emptyquantityads",
     "path": "/admin/ads/emptyquantityads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\emptyquantityads.vue",
-    "chunkName": "pages/admin/ads/emptyquantityads",
-    "_name": "_dcfa9cf0"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\emptyquantityads.vue",
+    "chunkName": "pages/admin/ads/emptyquantityads"
   },
   {
     "name": "admin-ads-searchads",
     "path": "/admin/ads/searchads",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\ads\\\\searchads.vue",
-    "chunkName": "pages/admin/ads/searchads",
-    "_name": "_04c8c4f0"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\ads\\\\searchads.vue",
+    "chunkName": "pages/admin/ads/searchads"
   },
   {
     "name": "admin-auth-login",
     "path": "/admin/auth/login",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\auth\\\\login.vue",
-    "chunkName": "pages/admin/auth/login",
-    "_name": "_1baa2341"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\auth\\\\login.vue",
+    "chunkName": "pages/admin/auth/login"
   },
   {
     "name": "admin-purchases-allpurchases",
     "path": "/admin/purchases/allpurchases",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\purchases\\\\allpurchases.vue",
-    "chunkName": "pages/admin/purchases/allpurchases",
-    "_name": "_45aa23a3"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\purchases\\\\allpurchases.vue",
+    "chunkName": "pages/admin/purchases/allpurchases"
   },
   {
     "name": "admin-purchases-awaiting",
     "path": "/admin/purchases/awaiting",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\purchases\\\\awaiting.vue",
-    "chunkName": "pages/admin/purchases/awaiting",
-    "_name": "_42e74ade"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\purchases\\\\awaiting.vue",
+    "chunkName": "pages/admin/purchases/awaiting"
   },
   {
     "name": "admin-purchases-completed",
     "path": "/admin/purchases/completed",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\purchases\\\\completed.vue",
-    "chunkName": "pages/admin/purchases/completed",
-    "_name": "_5d613329"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\purchases\\\\completed.vue",
+    "chunkName": "pages/admin/purchases/completed"
   },
   {
     "name": "admin-purchases-pending",
     "path": "/admin/purchases/pending",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\purchases\\\\pending.vue",
-    "chunkName": "pages/admin/purchases/pending",
-    "_name": "_12b179f5"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\purchases\\\\pending.vue",
+    "chunkName": "pages/admin/purchases/pending"
   },
   {
     "name": "admin-users-signupusers-unverifiedusers",
     "path": "/admin/users/signupusers/unverifiedusers",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\users\\\\signupusers\\\\unverifiedusers.vue",
-    "chunkName": "pages/admin/users/signupusers/unverifiedusers",
-    "_name": "_77a1b35f"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\users\\\\signupusers\\\\unverifiedusers.vue",
+    "chunkName": "pages/admin/users/signupusers/unverifiedusers"
   },
   {
     "name": "admin-users-signupusers-verifiedusers",
     "path": "/admin/users/signupusers/verifiedusers",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\users\\\\signupusers\\\\verifiedusers.vue",
-    "chunkName": "pages/admin/users/signupusers/verifiedusers",
-    "_name": "_91994650"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\users\\\\signupusers\\\\verifiedusers.vue",
+    "chunkName": "pages/admin/users/signupusers/verifiedusers"
   },
   {
     "name": "admin-users-signupusers-id",
     "path": "/admin/users/signupusers/:id?",
-    "component": "D:\\\\zameenapp\\\\pages\\\\admin\\\\users\\\\signupusers\\\\_id.vue",
-    "chunkName": "pages/admin/users/signupusers/_id",
-    "_name": "_126c9552"
+    "component": "D:\\\\zame\\\\pages\\\\admin\\\\users\\\\signupusers\\\\_id.vue",
+    "chunkName": "pages/admin/users/signupusers/_id"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\zameenapp\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_45768a33"
+    "component": "D:\\\\zame\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

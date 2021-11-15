@@ -4,28 +4,28 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _4e9bcb19 = () => interopDefault(import('..\\pages\\admin\\adminusers\\index.vue' /* webpackChunkName: "pages/admin/adminusers/index" */))
-const _04dfb352 = () => interopDefault(import('..\\pages\\admin\\ads\\index.vue' /* webpackChunkName: "pages/admin/ads/index" */))
-const _555c7c88 = () => interopDefault(import('..\\pages\\admin\\bankdetails\\index.vue' /* webpackChunkName: "pages/admin/bankdetails/index" */))
-const _502038ee = () => interopDefault(import('..\\pages\\admin\\dashboard\\index.vue' /* webpackChunkName: "pages/admin/dashboard/index" */))
-const _723e7a18 = () => interopDefault(import('..\\pages\\admin\\projects\\index.vue' /* webpackChunkName: "pages/admin/projects/index" */))
-const _44bb603a = () => interopDefault(import('..\\pages\\admin\\property_types\\index.vue' /* webpackChunkName: "pages/admin/property_types/index" */))
-const _651da710 = () => interopDefault(import('..\\pages\\admin\\sliders\\index.vue' /* webpackChunkName: "pages/admin/sliders/index" */))
-const _7960450d = () => interopDefault(import('..\\pages\\admin\\socities\\index.vue' /* webpackChunkName: "pages/admin/socities/index" */))
-const _68d6de6a = () => interopDefault(import('..\\pages\\admin\\ads\\activeads.vue' /* webpackChunkName: "pages/admin/ads/activeads" */))
-const _193d7e9f = () => interopDefault(import('..\\pages\\admin\\ads\\allads.vue' /* webpackChunkName: "pages/admin/ads/allads" */))
-const _22e05b78 = () => interopDefault(import('..\\pages\\admin\\ads\\disableads.vue' /* webpackChunkName: "pages/admin/ads/disableads" */))
-const _dcfa9cf0 = () => interopDefault(import('..\\pages\\admin\\ads\\emptyquantityads.vue' /* webpackChunkName: "pages/admin/ads/emptyquantityads" */))
-const _04c8c4f0 = () => interopDefault(import('..\\pages\\admin\\ads\\searchads.vue' /* webpackChunkName: "pages/admin/ads/searchads" */))
-const _1baa2341 = () => interopDefault(import('..\\pages\\admin\\auth\\login.vue' /* webpackChunkName: "pages/admin/auth/login" */))
-const _45aa23a3 = () => interopDefault(import('..\\pages\\admin\\purchases\\allpurchases.vue' /* webpackChunkName: "pages/admin/purchases/allpurchases" */))
-const _42e74ade = () => interopDefault(import('..\\pages\\admin\\purchases\\awaiting.vue' /* webpackChunkName: "pages/admin/purchases/awaiting" */))
-const _5d613329 = () => interopDefault(import('..\\pages\\admin\\purchases\\completed.vue' /* webpackChunkName: "pages/admin/purchases/completed" */))
-const _12b179f5 = () => interopDefault(import('..\\pages\\admin\\purchases\\pending.vue' /* webpackChunkName: "pages/admin/purchases/pending" */))
-const _77a1b35f = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\unverifiedusers.vue' /* webpackChunkName: "pages/admin/users/signupusers/unverifiedusers" */))
-const _91994650 = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\verifiedusers.vue' /* webpackChunkName: "pages/admin/users/signupusers/verifiedusers" */))
-const _126c9552 = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\_id.vue' /* webpackChunkName: "pages/admin/users/signupusers/_id" */))
-const _45768a33 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _bd4bfe8a = () => interopDefault(import('..\\pages\\admin\\adminusers\\index.vue' /* webpackChunkName: "pages/admin/adminusers/index" */))
+const _bd30a020 = () => interopDefault(import('..\\pages\\admin\\ads\\index.vue' /* webpackChunkName: "pages/admin/ads/index" */))
+const _4b4b7f4c = () => interopDefault(import('..\\pages\\admin\\bankdetails\\index.vue' /* webpackChunkName: "pages/admin/bankdetails/index" */))
+const _73d3c70c = () => interopDefault(import('..\\pages\\admin\\dashboard\\index.vue' /* webpackChunkName: "pages/admin/dashboard/index" */))
+const _b61c9f8c = () => interopDefault(import('..\\pages\\admin\\projects\\index.vue' /* webpackChunkName: "pages/admin/projects/index" */))
+const _d5ae36f6 = () => interopDefault(import('..\\pages\\admin\\property_types\\index.vue' /* webpackChunkName: "pages/admin/property_types/index" */))
+const _4dfa24ae = () => interopDefault(import('..\\pages\\admin\\sliders\\index.vue' /* webpackChunkName: "pages/admin/sliders/index" */))
+const _a7d909a2 = () => interopDefault(import('..\\pages\\admin\\socities\\index.vue' /* webpackChunkName: "pages/admin/socities/index" */))
+const _51b35c08 = () => interopDefault(import('..\\pages\\admin\\ads\\activeads.vue' /* webpackChunkName: "pages/admin/ads/activeads" */))
+const _0db515c1 = () => interopDefault(import('..\\pages\\admin\\ads\\allads.vue' /* webpackChunkName: "pages/admin/ads/allads" */))
+const _5593919a = () => interopDefault(import('..\\pages\\admin\\ads\\disableads.vue' /* webpackChunkName: "pages/admin/ads/disableads" */))
+const _4909462a = () => interopDefault(import('..\\pages\\admin\\ads\\emptyquantityads.vue' /* webpackChunkName: "pages/admin/ads/emptyquantityads" */))
+const _330fc9b4 = () => interopDefault(import('..\\pages\\admin\\ads\\searchads.vue' /* webpackChunkName: "pages/admin/ads/searchads" */))
+const _1021ba63 = () => interopDefault(import('..\\pages\\admin\\auth\\login.vue' /* webpackChunkName: "pages/admin/auth/login" */))
+const _35de17c5 = () => interopDefault(import('..\\pages\\admin\\purchases\\allpurchases.vue' /* webpackChunkName: "pages/admin/purchases/allpurchases" */))
+const _4222c000 = () => interopDefault(import('..\\pages\\admin\\purchases\\awaiting.vue' /* webpackChunkName: "pages/admin/purchases/awaiting" */))
+const _42448247 = () => interopDefault(import('..\\pages\\admin\\purchases\\completed.vue' /* webpackChunkName: "pages/admin/purchases/completed" */))
+const _17b9f893 = () => interopDefault(import('..\\pages\\admin\\purchases\\pending.vue' /* webpackChunkName: "pages/admin/purchases/pending" */))
+const _42ee8481 = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\unverifiedusers.vue' /* webpackChunkName: "pages/admin/users/signupusers/unverifiedusers" */))
+const _04660e7a = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\verifiedusers.vue' /* webpackChunkName: "pages/admin/users/signupusers/verifiedusers" */))
+const _02a08974 = () => interopDefault(import('..\\pages\\admin\\users\\signupusers\\_id.vue' /* webpackChunkName: "pages/admin/users/signupusers/_id" */))
+const _298e03d1 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -40,91 +40,91 @@ export const routerOptions = {
 
   routes: [{
     path: "/admin/adminusers",
-    component: _4e9bcb19,
+    component: _bd4bfe8a,
     name: "admin-adminusers"
   }, {
     path: "/admin/ads",
-    component: _04dfb352,
+    component: _bd30a020,
     name: "admin-ads"
   }, {
     path: "/admin/bankdetails",
-    component: _555c7c88,
+    component: _4b4b7f4c,
     name: "admin-bankdetails"
   }, {
     path: "/admin/dashboard",
-    component: _502038ee,
+    component: _73d3c70c,
     name: "admin-dashboard"
   }, {
     path: "/admin/projects",
-    component: _723e7a18,
+    component: _b61c9f8c,
     name: "admin-projects"
   }, {
     path: "/admin/property_types",
-    component: _44bb603a,
+    component: _d5ae36f6,
     name: "admin-property_types"
   }, {
     path: "/admin/sliders",
-    component: _651da710,
+    component: _4dfa24ae,
     name: "admin-sliders"
   }, {
     path: "/admin/socities",
-    component: _7960450d,
+    component: _a7d909a2,
     name: "admin-socities"
   }, {
     path: "/admin/ads/activeads",
-    component: _68d6de6a,
+    component: _51b35c08,
     name: "admin-ads-activeads"
   }, {
     path: "/admin/ads/allads",
-    component: _193d7e9f,
+    component: _0db515c1,
     name: "admin-ads-allads"
   }, {
     path: "/admin/ads/disableads",
-    component: _22e05b78,
+    component: _5593919a,
     name: "admin-ads-disableads"
   }, {
     path: "/admin/ads/emptyquantityads",
-    component: _dcfa9cf0,
+    component: _4909462a,
     name: "admin-ads-emptyquantityads"
   }, {
     path: "/admin/ads/searchads",
-    component: _04c8c4f0,
+    component: _330fc9b4,
     name: "admin-ads-searchads"
   }, {
     path: "/admin/auth/login",
-    component: _1baa2341,
+    component: _1021ba63,
     name: "admin-auth-login"
   }, {
     path: "/admin/purchases/allpurchases",
-    component: _45aa23a3,
+    component: _35de17c5,
     name: "admin-purchases-allpurchases"
   }, {
     path: "/admin/purchases/awaiting",
-    component: _42e74ade,
+    component: _4222c000,
     name: "admin-purchases-awaiting"
   }, {
     path: "/admin/purchases/completed",
-    component: _5d613329,
+    component: _42448247,
     name: "admin-purchases-completed"
   }, {
     path: "/admin/purchases/pending",
-    component: _12b179f5,
+    component: _17b9f893,
     name: "admin-purchases-pending"
   }, {
     path: "/admin/users/signupusers/unverifiedusers",
-    component: _77a1b35f,
+    component: _42ee8481,
     name: "admin-users-signupusers-unverifiedusers"
   }, {
     path: "/admin/users/signupusers/verifiedusers",
-    component: _91994650,
+    component: _04660e7a,
     name: "admin-users-signupusers-verifiedusers"
   }, {
     path: "/admin/users/signupusers/:id?",
-    component: _126c9552,
+    component: _02a08974,
     name: "admin-users-signupusers-id"
   }, {
     path: "/",
-    component: _45768a33,
+    component: _298e03d1,
     name: "index"
   }],
 
