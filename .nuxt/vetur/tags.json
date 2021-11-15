@@ -1,0 +1,14 @@
+{
+  "SharedSidebar": {
+    "description": "Auto imported from components/shared/Sidebar.vue"
+  },
+  "SharedTopbar": {
+    "description": "Auto imported from components/shared/Topbar.vue"
+  },
+  "AdminAdsEditad": {
+    "description": "Auto imported from components/admin/ads/editad.vue"
+  },
+  "AdminAdsViewdialog": {
+    "description": "Auto imported from components/admin/ads/viewdialog.vue"
+  }
+}
