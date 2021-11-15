@@ -7,8 +7,7 @@
         "build": "nuxt build",
         "start": "nuxt start",
         "generate": "nuxt generate",
-        "test": "jest",
-        "preinstall": "npm i -g pm2"
+        "test": "jest"
     },
     "dependencies": {
         "@nuxtjs/axios": "^5.13.6",
